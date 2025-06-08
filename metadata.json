@@ -1,0 +1,5 @@
+{
+  "name": "Boongle Image Generator",
+  "description": "An application to generate images using Google Gemini API based on user prompts. Users can input a text prompt, and the application will generate and display an image, which can then be downloaded. Includes different pricing plans with varying generation limits.",
+  "requestFramePermissions": []
+}
